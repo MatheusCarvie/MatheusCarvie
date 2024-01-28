@@ -1,8 +1,9 @@
 # Olá, eu sou Matheus Carvie ⚡
 
-Ingressei no mundo da programação durante a pandemia em 2020 e desde então, transformar ideias em realidade se tornou minha paixão. Dedico-me especialmente ao React.js, Flutter e também desenvolvo jogos em C# e C++. A possibilidade de criar algo a partir do zero é fascinante. Estou entusiasmado para continuar aprendendo e explorando novas áreas no campo da tecnologia. Meu objetivo futuro é me especializar como Fullstack.
+Ingressei no mundo da programação durante a pandemia em 2020 e desde então, transformar ideias em realidade se tornou minha paixão. Dedico-me especialmente ao `React.js`, `Flutter` e também desenvolvo jogos em `C#` e `C++`. A possibilidade de criar algo a partir do zero é fascinante. Estou entusiasmado para continuar aprendendo e explorando novas áreas no campo da tecnologia. Meu objetivo futuro é me especializar como Fullstack.
 
 [![Blog](https://img.shields.io/website?label=Portfólio&style=for-the-badge&url=https://matheuscarvie.vercel.app/)](https://matheuscarvie.vercel.app/)
+[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheuscarvie/)
 
 ## Tecnologias
 [![Blog](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
